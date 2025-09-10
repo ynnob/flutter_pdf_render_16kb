@@ -1,3 +1,12 @@
+# Changelog
+
+## 2.0.0 
+
+- Forked from [espresso3389/flutter_pdf_render](https://github.com/espresso3389/flutter_pdf_render).
+- Added support for 16 KB ELF page alignment (required by Google Play from 2025).
+- Published under new name `pdf_render_plus`.
+
+
 ## 1.4.12
 
 - Merge PR #148 to handle click outside page view
